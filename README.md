@@ -9,8 +9,9 @@ Post your Work on GitHub
 ### Description
 In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
 
-###List of software, firmware and hardware you may require.
+### List of software, firmware and hardware you may require.
 Installing GIT tool : https://git-scm.com/downloads.
+
 downloading the app ATOM : https://atom.io/
 
 ### Files used
